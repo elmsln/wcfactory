@@ -41,7 +41,7 @@
     "is-valid-element-name": "^1.0.0"
   },
   "devDependencies": {
-    "@open-wc/building-webpack": "0.1.10",
+    "@open-wc/building-webpack": "2.13.46",
     "http-server": "0.12.3",
     "owc-dev-server": "0.4.3",
     "webpack": "4.44.2",
